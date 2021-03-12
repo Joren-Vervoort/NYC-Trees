@@ -45,7 +45,7 @@ Each of these contain a .ipynb file containing the cleaning process and two .csv
 In this version of the cleaned data, the main focus is on the "tree_id", if this value is not present in a row, or has a duplicate in the dataframe, it will have been removed. The rest of the file is than processed as described in the .ipynb file. 
 
 The results consists of 2 different .csv files:
-- Clean_Data_GOOD_ENOUGH_unofficial.csv
+- Clean_Data_GOOD_ENOUGH_unofficial.csv (this file was to large to upload in GitHub)
 - Clean_Data_GOOD_ENOUGH_official.csv
 
 The reason for having 2 different .csv files is because of the mission. The goal was to make the population aware that nature is important. This does not mean that every "Volunteer" will return accurate/official data. This is why there is a Clean_Data_GOOD_ENOUGH_unofficial.csv dataset with the results of the "Volunteers" included and a Clean_Data_GOOD_ENOUGH_official.csv where the data of the "Volunteers" is excluded and for scientific purposes.
